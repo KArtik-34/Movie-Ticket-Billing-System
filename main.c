@@ -3,7 +3,7 @@ int rw, stno, trtp;
 //hihihi
 char name[20];
 int age, aadhr, mob_no;
-
+//hohohoh
 char mvnm[3][20] = {"Robot", " KGF", "Avatar"};
 char shtm[4][20] = {"10:00-12:00", "13:00-15:00", "15:00-17:00", "18:00-20:00"};
 int slct, shlct;
