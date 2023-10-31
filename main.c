@@ -1,6 +1,6 @@
 #include <stdio.h>
 int rw, stno, trtp;
-
+//hihihi
 char name[20];
 int age, aadhr, mob_no;
 
