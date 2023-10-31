@@ -13,7 +13,7 @@ char *row[3][4] = {{"A", "B", "C", "D"}, {"E", "F", "G", "H"}, {"I", "J", "K", "
 char row_S[4][10] = {"A", "B", "C", "D"};
 char row_G[4][10] = {"E", "F", "G", "H"};
 char row_P[1][5] = {"I"};
-
+//heyheyhey
 
 int cust()
 {
